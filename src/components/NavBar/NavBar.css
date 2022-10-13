@@ -1,0 +1,58 @@
+.navbar{
+    position: fixed;
+    top:0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.logo{
+position: fixed;
+left: 20px;
+width: 80px;
+}
+
+.avatar {
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
+.Navbutton{
+    color: rgb(255, 255, 255);
+    outline: none;
+    border: none;
+    font-weight: 700;
+    width: 10rem;
+    padding-left: rem;
+    padding-right: 2.rem;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    margin-right: 1rem;
+}
+.Navbutton2{
+    color: rgb(250, 249, 249);
+    outline: none;
+    border: none;
+    font-weight: 700;
+    width: 10rem;
+    padding-left: rem;
+    padding-right: 2.rem;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    background-color: rgb(200, 19, 19);
+    cursor: pointer;
+    margin-right: 1rem;
+}
+
+.Navbutton:hover{
+    color: black;
+    background-color: #f9eaea;
+}
+.button_div{
+    margin-left: 65rem;
+}
